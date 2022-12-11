@@ -8,5 +8,6 @@ Espero que gostem do vídeo. No diretório `scripts`, temos os *scripts* que for
 
 [Assista no YouTube!](https://youtu.be/RRMV2LDNa5E)
 
+https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/
 ---
 Canal BL2  - TI direto ao ponto!
