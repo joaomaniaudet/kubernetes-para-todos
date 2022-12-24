@@ -6,6 +6,8 @@ cat server.yaml
 
 #acessar arquivo
 nano server.yaml 
+#delete deploy
+kubectl delete deployment/server
 
 #ctr+w procurar
 #ctr+o salvar
